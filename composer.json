@@ -1,5 +1,5 @@
 {
-	"name": "shadowhand/purifier",
+	"name": "roquie/purifier",
 	"type": "kohana-module",
 	"description": "XSS cleaning module for the Kohana Framework that uses HTML Purifier",
 	"keywords": ["kohana", "security", "xss", "clean", "purifier", "htmlpurifier"],
